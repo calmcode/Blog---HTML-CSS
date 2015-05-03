@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+  
+  <head>
+    <title>Albert's Blog</title>
+    <link rel="stylesheet" href="http://lighthouse.jquerycentral.com/css/blog-blue.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <header>
+      <h1>My Blog</h1>
+      <img src="Albert's Blog Post Images/Logo.jpg">
+    </header>
+
+    <section class="first"> 
+      <header>
+        <h2>I built a webpage</h2>
+        <h3>2015-4-27</h3>
+        <h4>Albert <span style="color: red;">Yu</span></h4>
+        <img src="http://placekitten.com/200/150">
+      </header>
+      <article>
+        <p>Today is the <span><em>first</em> day</span> of the <strong>Lighthouse Labs</strong> part time course. It looks to be a challenge, but after a bit of learning we should all be able to write <em>beautiful</em> websites. I've been looking forward to this for a <strong>long</strong> time already!</p>
+      </article>
+    </section>
+   
+    <aside> 
+      <section>
+        <h4>My Pet</h4>
+        <p>Pudding</p>
+      </section>
+      <section>
+        <h4>My Favorite Color</h4>
+        <p class="blue">Blue</p>
+      </section>
+      <section>
+        <h4>Bucket List</h4>
+        <ul>
+          <li>Become a great coder</li>
+          <li>Have a successful startup</li>
+          <li>Build an incubator for small businesses</li>
+        </ul>
+      </section>
+    </aside>
+
+  </body>
+
+</html>
